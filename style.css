@@ -28,3 +28,6 @@ body{
     background: transparent;
     color: white;
 }
+@media only screen and (max-device-width: 900px) {
+    .container { width:100%; } 
+    }
