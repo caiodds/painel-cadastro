@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.699);
+    border-radius: 20px;
+    color: white;
+}
+body{
+    background-image: url('https://th.bing.com/th/id/R.4ed6322d934017b04a18bb70b2b783e5?rik=qgDshq4WrsEWsw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f8%2f2%2f5%2f415238.jpg&ehk=jJkRFoAzMCiV%2f57Kg67x0rnlJ4h2v2JUfyjXBfVgbhc%3d&risl=&pid=ImgRaw&r=0');
+    color: white;
+}
+.nome{
+    border-radius: 10px;
+    padding: 10px;
+    background: transparent;
+    color: white;
+}
+.email{
+    border-radius: 10px;
+    padding: 10px;
+    background: transparent;
+    color: white;
+}
+.senha{
+    border-radius: 10px;
+    padding: 10px;
+    background: transparent;
+    color: white;
+}
